@@ -1,4 +1,4 @@
-# 📚 RULES CHUNG KHI SỬ DỤNG GIT
+# 📚 RULES CHUNG KHI SỬ DỤNG GIT 
 
 ## Quy tắc đặt tên nhánh khi thi công chức năng:
 
@@ -86,4 +86,4 @@ Số lần đăng nhập sai được cấu hình tại file confile với khóa
 - Có thói quen merge code với nhánh origin/develop thường xuyên và áp dụng quy tắc: Chỉ thêm code của mình vào, không bỏ code của nhánh origin/develop trong lúc merge.
 - Nên thực hiện merge code với nhánh origin/develop => Xử lý conflict trước các bước: Build, test, push.
 - Khi tạo pull request mà hệ thống báo conflict => merge lại code với nhánh origin/develop => xử lý conflict => Bulid => test => push lại 
-=> Hệ thống tự động đưa commit đó vào pull request hiện tại.
+=> Hệ thống tự động đưa commit đó vào pull request hiện tại
